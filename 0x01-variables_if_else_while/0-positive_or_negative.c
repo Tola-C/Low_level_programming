@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/*Source code to pick a random number and indicatew whether it is positive, negative or zero*/
+/*Pick a random number and indicate if it's positive, negative or zero*/
 
 int main(void)
 {
@@ -18,12 +18,12 @@ int main(void)
 	{
 		if (n < 0)
 		{
-		printf("%dis negative\n", n);
+		printf("%d is negative\n", n);
 		}
 		else
 		{
 		printf("%d is zero\n", n);
 		}
 	}
-	return(0);
+	return (0);
 }
