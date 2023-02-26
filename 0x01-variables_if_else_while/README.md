@@ -5,3 +5,4 @@
 4-print_alphabt.c is a code that prints all letters in lowercase except e & q
 6-print_numberz.c is a code that prints all single digit numbers of base 10 starting from 0
 7-print_tebahpla.c is a code that prints the lowercase alphabet in reverse, followed by a new line
+8-print_base16.c is a program that prints all the numbers of base 16 in lowercase
