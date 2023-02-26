@@ -2,10 +2,18 @@
 #include <time.h>
 #include <stdio.h>
 
-/*Pick a random number and indicate if it's positive, negative or zero*/
+/**Main- Entry point
+ * 
+ * Description: Pick a random number and indicate if it's +ve, -ve or zero
+ * parameter: n
+ * 
+ * Return: Always 0 (success)
+ */
 
 int main(void)
+
 {
+
 	int n;
 
 	srand(time(0));
@@ -26,4 +34,5 @@ int main(void)
 		}
 	}
 	return (0);
+
 }
