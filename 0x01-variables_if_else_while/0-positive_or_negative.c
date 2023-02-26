@@ -2,16 +2,15 @@
 #include <time.h>
 #include <stdio.h>
 
-/**Main- Entry point
- * 
+/**
+ * main - Entry point
  * Description: Pick a random number and indicate if it's +ve, -ve or zero
  * parameter: n
- * 
  * Return: Always 0 (success)
  */
 
 int main(void)
-
+/* Start by picking a random number*/
 {
 
 	int n;
