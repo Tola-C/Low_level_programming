@@ -3,3 +3,5 @@
 2-print_alphabet.c is a source code that uses putchar function to print the alphabet
 3-print_alphabets.c is a source code to print the lowercase alphabet followed by upper case
 4-print_alphabt.c is a code that prints all letters in lowercase except e & q
+6-print_numberz.c is a code that prints all single digit numbers of base 10 starting from 0
+7-print_tebahpla.c is a code that prints the lowercase alphabet in reverse, followed by a new line
