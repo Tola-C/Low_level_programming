@@ -7,3 +7,4 @@
 7-print_tebahpla.c is a code that prints the lowercase alphabet in reverse, followed by a new line
 8-print_base16.c is a program that prints all the numbers of base 16 in lowercase
 9-print_comb.c is a source code for priniting all possible combinations of single digit numbers using putchar
+100-print_comb3.c is a source code that combines 2 digits in ascending order
