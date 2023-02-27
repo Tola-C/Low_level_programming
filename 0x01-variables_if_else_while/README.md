@@ -8,3 +8,4 @@
 8-print_base16.c is a program that prints all the numbers of base 16 in lowercase
 9-print_comb.c is a source code for priniting all possible combinations of single digit numbers using putchar
 100-print_comb3.c is a source code that combines 2 digits in ascending order
+101-print_comb4.c is a source code that prints all possible combinations of 3 digits
