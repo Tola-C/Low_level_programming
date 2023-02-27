@@ -17,15 +17,14 @@ int main(void)
 
 	for (ch = '0'; ch <= '9'; ++ch)
 	{
-	for (c = '0'; c <= '9'; ++c)
-	{
-	if (ch != c && c != '0' && c > ch)
+	for (c = ch + 1; c <= '9'; ++c)
 	{
 	putchar(ch);
 	putchar(c);
+	if (ch == '8' && c == '9')
+	continue;
 	putchar(',');
 	putchar(' ');
-	}
 	}
 	}
 
