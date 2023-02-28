@@ -16,6 +16,6 @@ int print_last_digit(int n)
 	ld = ld * -1;
 	}
 	/* convert int to ascii for puchar function*/
-	_putchhar('0' + ld);
+	_putchar('0' + ld);
 	return (0);
 }
