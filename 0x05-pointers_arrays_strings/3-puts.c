@@ -2,7 +2,9 @@
 
 /**
  * _puts - prints a string, then new line to stdout
+ * _putchar - prints a character
  * @str: string for printing
+ * @c: character to be printed using ptchar
  * Retrurn: Always Success
  */
 int _putchar(char c);
