@@ -12,6 +12,7 @@ int _atoi(char *s)
 	i = 0;
 	x = 0;
 	y = 0;
+	z = 0;
 	length = 0;
 	num = 0;
 
