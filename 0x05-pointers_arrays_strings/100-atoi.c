@@ -24,7 +24,7 @@ int _atoi(char *s)
 	if (s[i] >= '0' && s[i] <= '9')
 	{
 	num = s[i] - '0';
-	if (d % 2)
+	if (x % 2)
 	num = -num;
 	y = y * 10 + num;
 	z = 1;
