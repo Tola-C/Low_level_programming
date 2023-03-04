@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strncpy copies a sting
+ * _strncpy - copies a sting
  * @dest: one input
  * @src: another input
  * @n: limit
