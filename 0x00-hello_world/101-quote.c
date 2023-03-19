@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include <unistd.h>
 /**
  * main - print text in printf function
  * program should always return 0 after printing text
